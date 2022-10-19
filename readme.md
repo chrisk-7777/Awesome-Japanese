@@ -184,6 +184,7 @@ _Alphabet of Japanese language._
 - [Keio University Reading Materials Bank](http://language.tiu.ac.jp/materials/jpn/index.html) - The site is mostly in Japanese, but follow the 1-stars for the easiest reading materials. It's great because there is an English glossary integrated into the articles.
 - [Japanese IO](https://www.japanese.io) - Learn Japanese through fun and easy reading practice. 👴
 - [PressReader](https://www.pressreader.com/) - This website/app offers [毎日新聞　 Mainichi Shinbun](https://mainichi.jp/) digital daily newspaper and other Japanese language publications for free with many American libraries, please check local library to see whether it is available. See [detail](https://care.pressreader.com/hc/en-us/articles/211272703-Library-Card-Sign-In). Otherwise paid plan available. 👴 :moneybag:
+- [ImaWakatta](https://imawakatta.com/) - Context based eLearning. Regardless of your level, start _actually_ reading real Japanese today. ImaWakatta has stories with native voice overs, voice actors, and live highlighting so you can follow the story's audio line by line. 4 stories included for free 👶💰
 
 ## Listening
 
